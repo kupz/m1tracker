@@ -13,9 +13,9 @@ export default function Navbar() {
           alt="logo"
           className="w-12 drop-shadow-lg cursor-pointer"
         />
-        <a>Our Solutions</a>
-        <a>navlink 2</a>
-        <a>navlink 3</a>
+        <a>Link1</a>
+        <a>Link2</a>
+        <a>Link3</a>
       </div>
       <div className="flex gap-5 items-center">
         <SearchIcon />
