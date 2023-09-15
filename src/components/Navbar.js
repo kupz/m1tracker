@@ -2,7 +2,7 @@ import React from "react";
 import SearchIcon from "@mui/icons-material/Search";
 import PersonIcon from "@mui/icons-material/Person";
 
-import logo from "../assets/K.png";
+import logo from "../assets/m1TrackerLogo.png";
 
 export default function Navbar() {
   return (
@@ -13,9 +13,9 @@ export default function Navbar() {
           alt="logo"
           className="w-12 drop-shadow-lg cursor-pointer"
         />
-        <a>Link1</a>
-        <a>Link2</a>
-        <a>Link3</a>
+        <a href="/sample">Link1</a>
+        <a href="/sample">Link2</a>
+        <a href="/sample">Link3</a>
       </div>
       <div className="flex gap-5 items-center">
         <SearchIcon />
